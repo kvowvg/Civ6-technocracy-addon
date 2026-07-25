@@ -1,9 +1,0 @@
-{
-  "name": "Civ6 - Technocracy Addon",
-  "author": "KVO",
-  "version": "1.0.0",
-  "description": "Adds the Technocracy civilization led by Plato.",
-  "dependencies": [
-    "Civ6"
-  ]
-}
