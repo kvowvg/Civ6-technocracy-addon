@@ -40,30 +40,5 @@
       "May active Religious Spread 2 times",
       "[+99] Religious Spreads <in [Friendly] tiles>"
     ]
-  },
-  {
-    "name": "Dean",
-    "replaces": "Apostle",
-    "uniqueTo": "Technocracy",
-    "unitType": "Civilian",
-    "movement": 4,
-    "cost": 50,
-    "uniques": [
-      "May active Religious Spread 3 times",
-      "[+99] Religious Spreads <in [Friendly] tiles>",
-      "Can launch Theological Combat",
-      "Can Evangelize Belief"
-    ]
-  },
-  {
-    "name": "Science Communicator",
-    "replaces": "Guru",
-    "uniqueTo": "Technocracy",
-    "unitType": "Civilian",
-    "movement": 4,
-    "cost": 40,
-    "uniques": [
-      "Heals religious units in adjacent tiles"
-    ]
   }
 ]
