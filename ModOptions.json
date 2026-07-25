@@ -1,0 +1,9 @@
+{
+  "name": "Civ6 - Technocracy Addon",
+  "author": "Hector",
+  "version": "1.0.0",
+  "description": "Adds the Technocracy civilization led by Plato, featuring scientific rationalism, resource synthesis, and unique units.",
+  "dependencies": [
+    "Civ6"
+  ]
+}
