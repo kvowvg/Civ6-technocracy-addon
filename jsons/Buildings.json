@@ -3,7 +3,7 @@
     "name": "Campus Library",
     "uniqueTo": "Technocracy",
     "replaces": "Library",
-    "requiredBuilding": "Campus",
+    "requiredBuilding": "Campus District",
     "cost": 80,
     "faith": 3,
     "science": 1,
