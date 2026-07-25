@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Satellite",
+    "uniqueTo": "Technocracy",
+    "unitType": "Civilian",
+    "movement": 0,
+    "cost": 500,
+    "requiredTech": "Satellites",
+    "requiredBuilding": "Spaceport",
+    "uniques": [
+      "Reveals the entire map <by consuming this unit>",
+      "Limited to [1] per Civilization"
+    ]
+  },
+  {
+    "name": "Professor",
+    "replaces": "Missionary",
+    "uniqueTo": "Technocracy",
+    "unitType": "Civilian",
+    "movement": 4,
+    "cost": 30,
+    "religiousStrength": 1000,
+    "uniques": [
+      "Can Spread Religion <for [4] movement> <[3] times> <after which this unit is consumed>",
+      "Removes other religions when spreading religion",
+      "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+      "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+      "[-1] Sight",
+      "Religious Unit",
+      "Only available <when religion is enabled>"
+    ]
+  },
+  {
+    "name": "Debunker",
+    "replaces": "Inquisitor",
+    "uniqueTo": "Technocracy",
+    "unitType": "Civilian",
+    "movement": 3,
+    "cost": 30,
+    "uniques": [
+      "Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
+      "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+      "[+1] Sight",
+      "Religious Unit",
+      "Only available <when religion is enabled>"
+    ]
+  }
+]

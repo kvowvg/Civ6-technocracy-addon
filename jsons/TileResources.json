@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Synthesis Slots",
+    "resourceType": "Strategic",
+    "uniques": [
+      "Cannot be traded",
+      "City-level resource"
+    ]
+  }
+]
