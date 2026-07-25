@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Synthesis Slots",
+    "resourceType": "Strategic",
+    "revealedBy": "Scientific Theory",
+    "uniques": [
+      "Unsellable",
+      "Invisible"
+    ]
+  }
+]

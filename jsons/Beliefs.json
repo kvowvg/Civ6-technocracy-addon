@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Academic Enlightenment",
+    "type": "Founder",
+    "uniqueTo": "Technocracy",
+    "uniques": [
+      "+150% [Science] [in all cities]",
+      "+10% [Science] [in all cities]",
+      "+10% [Culture] [in all cities]",
+      "+10% [Gold] [in all cities]",
+      "+10% [Production] [in all cities]",
+      "+10% [Food] [in all cities]",
+      "+50% [Science] [in all cities]",
+      "+50% [Culture] [in all cities]",
+      "+50% [Gold] [in all cities]"
+    ]
+  }
+]

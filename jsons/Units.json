@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Satellite",
+    "uniqueTo": "Technocracy",
+    "unitType": "Civilian",
+    "movement": 0,
+    "cost": 500,
+    "requiredTech": "Satellites",
+    "requiredBuilding": "Spaceport",
+    "uniques": [
+      "Reveals the entire map",
+      "Max count in world: 1",
+      "Unplaceable",
+      "Automation-only unit"
+    ]
+  },
+  {
+    "name": "Professor",
+    "replaces": "Missionary",
+    "uniqueTo": "Technocracy",
+    "unitType": "Civilian",
+    "movement": 4,
+    "cost": 30,
+    "uniques": [
+      "Removes other religions from target city",
+      "May active Religious Spread 3 times",
+      "[+99] Religious Spreads <in [Friendly] tiles>",
+      "Can only be built if [Library] is built"
+    ]
+  },
+  {
+    "name": "Debunker",
+    "replaces": "Inquisitor",
+    "uniqueTo": "Technocracy",
+    "unitType": "Civilian",
+    "movement": 3,
+    "cost": 30,
+    "uniques": [
+      "Removes other religions from target city",
+      "May active Religious Spread 2 times",
+      "[+99] Religious Spreads <in [Friendly] tiles>"
+    ]
+  },
+  {
+    "name": "Dean",
+    "replaces": "Apostle",
+    "uniqueTo": "Technocracy",
+    "unitType": "Civilian",
+    "movement": 4,
+    "cost": 50,
+    "uniques": [
+      "May active Religious Spread 3 times",
+      "[+99] Religious Spreads <in [Friendly] tiles>",
+      "Can launch Theological Combat",
+      "Can Evangelize Belief"
+    ]
+  },
+  {
+    "name": "Science Communicator",
+    "replaces": "Guru",
+    "uniqueTo": "Technocracy",
+    "unitType": "Civilian",
+    "movement": 4,
+    "cost": 40,
+    "uniques": [
+      "Heals religious units in adjacent tiles"
+    ]
+  }
+]

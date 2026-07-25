@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Technocracy",
+    "leaderName": "Plato",
+    "adjective": [
+      "Technocratic"
+    ],
+    "startBias": [
+      "Campus"
+    ],
+    "uniqueTraits": [
+      "+150% [Science] [in all cities] <when NOT adopting a religion>",
+      "-50% [Science] [in all cities] <when adopting a religion>",
+      "-50% [Culture] [in all cities] <when adopting a religion>",
+      "-50% [Gold] [in all cities] <when adopting a religion>"
+    ],
+    "uniqueBuildings": [
+      "Library",
+      "University",
+      "Research Lab"
+    ],
+    "uniqueUnits": [
+      "Satellite",
+      "Professor",
+      "Debunker",
+      "Dean",
+      "Science Communicator"
+    ],
+    "cities": [
+      "Harvard",
+      "Stanford",
+      "MIT",
+      "Cambridge",
+      "Berkeley",
+      "Oxford",
+      "Princeton",
+      "Columbia",
+      "Caltech",
+      "Chicago",
+      "Yale",
+      "Cornell",
+      "Paris-Saclay",
+      "UCL",
+      "Penn",
+      "UCLA",
+      "Tsinghua",
+      "Johns Hopkins",
+      "UCSD",
+      "ETH Zurich"
+    ]
+  }
+]
