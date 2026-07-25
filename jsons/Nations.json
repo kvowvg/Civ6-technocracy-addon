@@ -8,6 +8,8 @@
     "startBias": [
       "Hill"
     ],
+    "innerColor": [255, 255, 255],
+    "outerColor": [20, 40, 90],
     "uniques": [
       "+150% [Science] [in all cities] <when NOT adopting a religion>",
       "-50% [Science] [in all cities] <when adopting a religion>",
