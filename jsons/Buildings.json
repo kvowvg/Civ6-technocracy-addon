@@ -1,6 +1,6 @@
 [
   {
-    "name": "Library",
+    "name": "Campus Library",
     "uniqueTo": "Technocracy",
     "replaces": "Library",
     "requiredBuilding": "Campus",
@@ -10,7 +10,7 @@
     "happiness": 2
   },
   {
-    "name": "University",
+    "name": "College",
     "uniqueTo": "Technocracy",
     "replaces": "University",
     "requiredBuilding": "Library",
@@ -20,7 +20,7 @@
     "happiness": 1
   },
   {
-    "name": "Research Lab",
+    "name": "Research Station",
     "uniqueTo": "Technocracy",
     "replaces": "Research Lab",
     "requiredBuilding": "University",
