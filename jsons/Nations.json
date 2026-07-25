@@ -8,7 +8,7 @@
     "startBias": [
       "Snow"
     ],
-    "uniqueTraits": [
+    "uniques": [
       "+150% [Science] [in all cities] <when NOT adopting a religion>",
       "-50% [Science] [in all cities] <when adopting a religion>",
       "-50% [Culture] [in all cities] <when adopting a religion>",
