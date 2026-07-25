@@ -6,29 +6,36 @@
     "requiredBuilding": "Campus District",
     "cost": 80,
     "faith": 3,
-    "science": 1,
-    "happiness": 2
+    "science": 3,
+    "happiness": 2,
+    "uniques": [
+      "+1 [Science] per [2] [Population] in this city"
+    ]
   },
   {
     "name": "College",
     "uniqueTo": "Technocracy",
     "replaces": "University",
-    "requiredBuilding": "Library",
+    "requiredBuilding": "Campus Library",
     "cost": 120,
     "faith": 3,
-    "science": 1,
-    "happiness": 1
+    "science": 5,
+    "happiness": 1,
+    "uniques": [
+      "Provides 1 [Science Specialist] slots"
+    ]
   },
   {
     "name": "Research Station",
     "uniqueTo": "Technocracy",
     "replaces": "Research Lab",
-    "requiredBuilding": "University",
+    "requiredBuilding": "College",
     "cost": 150,
     "faith": 4,
-    "science": 3,
+    "science": 8,
     "happiness": 2,
     "uniques": [
+      "Provides 1 [Science Specialist] slots",
       "Provides 1 [Synthesis Slots]",
       "+1 [Synthesis Slots] <for every [5] [Tech] technologies discovered>"
     ]
@@ -36,7 +43,7 @@
   {
     "name": "Synthesis: Oil",
     "cost": 50,
-    "requiredBuilding": "Research Lab",
+    "requiredBuilding": "Research Station",
     "uniques": [
       "Provides 2 [Oil]",
       "Requires 1 [Synthesis Slots]"
@@ -45,7 +52,7 @@
   {
     "name": "Synthesis: Aluminum",
     "cost": 50,
-    "requiredBuilding": "Research Lab",
+    "requiredBuilding": "Research Station",
     "uniques": [
       "Provides 2 [Aluminum]",
       "Requires 1 [Synthesis Slots]"
@@ -54,7 +61,7 @@
   {
     "name": "Synthesis: Uranium",
     "cost": 80,
-    "requiredBuilding": "Research Lab",
+    "requiredBuilding": "Research Station",
     "uniques": [
       "Provides 1 [Uranium]",
       "Requires 2 [Synthesis Slots]"
