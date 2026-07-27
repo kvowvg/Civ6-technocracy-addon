@@ -86,7 +86,8 @@
     "[+1 Science] from every [Production]",
     "[+1 Science] from every [Culture]",
     "[+1 Science] from every [Faith]",
-    "[+1 Production] from every [Science]"
+    "[+1 Production] from every [Science]",
+    "Provides [120] [Wildcard Policy Slots]",
   ]
 }
 ]
