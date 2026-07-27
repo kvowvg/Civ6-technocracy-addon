@@ -75,5 +75,18 @@
       "Provides 1 [Uranium]",
       "Requires 2 [Synthesis Slots]"
     ]
-  }
+  },
+  {
+  "name": "Rationalism institut",
+  "uniqueTo": "Technocracy",
+  "cost": 200,
+  "requiredBuilding": "Research Station",
+  "uniques": [
+    "[+1 Science] from every [Gold]",
+    "[+1 Science] from every [Production]",
+    "[+1 Science] from every [Culture]",
+    "[+1 Science] from every [Faith]",
+    "[+1 Production] from every [Science]"
+  ]
+}
 ]
