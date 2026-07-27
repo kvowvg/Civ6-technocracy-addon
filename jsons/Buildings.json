@@ -59,6 +59,15 @@
     ]
   },
   {
+  "name": "Synthesis: Niter",
+  "cost": 50,
+  "requiredBuilding": "Research Lab",
+  "uniques": [
+    "Provides 2 [Niter]",
+    "Requires 1 [Synthesis Slots]"
+  ]
+  },
+  {
     "name": "Synthesis: Uranium",
     "cost": 80,
     "requiredBuilding": "Research Station",
